@@ -1,0 +1,2 @@
+Ragbot_I2C_Master：ロボット頭部用マイコンのコード、通信を管理
+Ragbot_I2C_Slave ：ロボット身体部用マイコンのコード
