@@ -1,2 +1,2 @@
-Ragbot_I2C_Master�F���{�b�g�����p�}�C�R���̃R�[�h�A�ʐM���Ǘ�
-Ragbot_I2C_Slave �F���{�b�g�g�̕��p�}�C�R���̃R�[�h
+I2C_Master：ロボット頭部用マイコンのコード、全体の通信を管理
+I2C_Slave ：ロボット身体部用マイコンのコード
